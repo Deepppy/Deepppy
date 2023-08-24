@@ -5,7 +5,7 @@
 
 ## DonationAlerts
 
-htpps://donationalerts.com/r/Deeppyy
+https://donationalerts.com/r/Deeppyy
 
 ## PayPal
 
