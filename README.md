@@ -10,3 +10,6 @@ https://donationalerts.com/r/Deeppyy
 ## PayPal
 
 plaftpaypal@gmail.com
+
+
+## I also make custom scripts, to contact me write to me on discord(**the_plaft**)
