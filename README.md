@@ -1,4 +1,4 @@
- Hello, im Deepppy, here you can find ways that you can support me(if you want of course)
+ Hello, im Depex, here you can find ways that you can support me(if you want of course)
 
 ## All Donations are appreciated!
 
