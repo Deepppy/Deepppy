@@ -1,15 +1,8 @@
- Hello, im Depex, here you can find ways that you can support me(if you want of course)
+ hello, im Depex
+ ![](https://komarev.com/ghpvc/?username=imnotdepex&color=grey&style=flat&label=visitors)
 
-## All Donations are appreciated!
-
-
-## DonationAlerts
-
-https://donationalerts.com/r/Deeppyy
-
-## PayPal
-
-plaftpaypal@gmail.com
-
-
-## I also make custom scripts, to contact me write to me on discord(**the_plaft**)
+ ## languages and tools
+<p align="left">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
